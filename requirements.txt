@@ -1,1 +1,68 @@
-https://www.pymol.org/
+requirements for datadabase collection.
+https://www.pymol.org
+PyMOL is a popular, open-source molecular visualization software
+used for viewing and rendering high-quality images of molecular models. 
+It's a powerful tool for scientists, particularly in fields like structural biology, 
+for studying and analyzing protein, DNA, and other biomolecules. 
+PyMOL is known for its user-friendly interface, wide range of features, 
+and availability across various platforms. 
+https://www.illumina.com/
+
+
+https://www.ncbi.nlm.nih.gov/
+
+https://www.genome.jp/kegg/
+
+https://nextstrain.org/
+
+requirements of api
+pip istall BeautifulSoup.
+
+NCBI Entraiz API
+
+Open FDA Api
+
+data cleaning and processing
+Pandas
+
+Numpy
+
+BioPy
+
+Using ML and AI
+Skilit learn
+
+Pytorch
+
+XG boost
+
+BIO BERT
+Using BDA(Big Data Analysis)
+Hadoop
+o	SQL (PostgreSQL, MySQL) 
+o	NoSQL (MongoDB, Cassandra) 
+o	Google BigQuery, Amazon Redshift
+•	Visualization Tools:
+o	Matplotlib, Seaborn, Plotly – for plotting immune response patterns.
+o	Tableau, Power BI – for interactive dashboards.
+o	Pandas Profiling, Sweetviz – for exploratory data analysis.
+o	IGV (Integrative Genomics Viewer) – for genome sequence visualization.
+o	Cytoscape – for immune network and protein interaction visualization.
+•	Cloud Platforms:
+o	Google Cloud AI, AWS SageMaker, Azure ML – for hosting AI/ML models.
+o	Google Colab, Kaggle Notebooks – for rapid AI experimentation.
+•	MLOps & Deployment:
+o	Docker, Kubernetes – for containerizing and deploying models.
+o	Flask, FastAPI, Streamlit – for building interactive web apps for model predictions.
+________________________________________
+
+
+
+
+
+
+
+
+
+
+
